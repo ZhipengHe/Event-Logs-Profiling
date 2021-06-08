@@ -1,0 +1,37 @@
+Activity,Frequency,Relative frequency
+W_Completeren aanvraag-COMPLETE,"23,967",9.14 %
+W_Completeren aanvraag-START,"23,512",8.97 %
+W_Nabellen offertes-COMPLETE,"22,976",8.76 %
+W_Nabellen offertes-START,"22,406",8.55 %
+A_SUBMITTED-COMPLETE,"13,087",4.99 %
+A_PARTLYSUBMITTED-COMPLETE,"13,087",4.99 %
+W_Nabellen incomplete dossiers-COMPLETE,"11,407",4.35 %
+W_Nabellen incomplete dossiers-START,"11,400",4.35 %
+W_Valideren aanvraag-COMPLETE,"7,895",3.01 %
+W_Valideren aanvraag-START,"7,891",3.01 %
+A_DECLINED-COMPLETE,"7,635",2.91 %
+W_Completeren aanvraag-SCHEDULE,"7,371",2.81 %
+A_PREACCEPTED-COMPLETE,"7,367",2.81 %
+O_SELECTED-COMPLETE,"7,030",2.68 %
+O_CREATED-COMPLETE,"7,030",2.68 %
+O_SENT-COMPLETE,"7,030",2.68 %
+W_Nabellen offertes-SCHEDULE,"6,634",2.53 %
+W_Afhandelen leads-COMPLETE,"5,898",2.25 %
+W_Afhandelen leads-START,"5,897",2.25 %
+A_ACCEPTED-COMPLETE,"5,113",1.95 %
+W_Valideren aanvraag-SCHEDULE,"5,023",1.92 %
+A_FINALIZED-COMPLETE,"5,015",1.91 %
+W_Afhandelen leads-SCHEDULE,"4,771",1.82 %
+O_CANCELLED-COMPLETE,"3,655",1.39 %
+O_SENT_BACK-COMPLETE,"3,454",1.32 %
+A_CANCELLED-COMPLETE,"2,807",1.07 %
+W_Nabellen incomplete dossiers-SCHEDULE,"2,383",0.91 %
+A_REGISTERED-COMPLETE,"2,246",0.86 %
+A_APPROVED-COMPLETE,"2,246",0.86 %
+A_ACTIVATED-COMPLETE,"2,246",0.86 %
+O_ACCEPTED-COMPLETE,"2,243",0.86 %
+O_DECLINED-COMPLETE,802,0.31 %
+W_Beoordelen fraude-START,270,0.1 %
+W_Beoordelen fraude-COMPLETE,270,0.1 %
+W_Beoordelen fraude-SCHEDULE,124,0.05 %
+W_Wijzigen contractgegevens-SCHEDULE,12,0 %
