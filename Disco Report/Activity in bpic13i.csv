@@ -1,0 +1,14 @@
+Activity,Frequency,Relative frequency
+Accepted + In Progress,"30,239",46.14 %
+Queued + Awaiting Assignment,"11,544",17.62 %
+Completed + Resolved,"6,115",9.33 %
+Completed + Closed,"5,716",8.72 %
+Accepted + Wait - User,"4,217",6.43 %
+Accepted + Assigned,"3,221",4.92 %
+Completed + In Call,"2,035",3.11 %
+Accepted + Wait,"1,533",2.34 %
+Accepted + Wait - Implementation,493,0.75 %
+Accepted + Wait - Vendor,313,0.48 %
+Accepted + Wait - Customer,101,0.15 %
+Unmatched + Unmatched,5,0.01 %
+Completed + Cancelled,1,0 %

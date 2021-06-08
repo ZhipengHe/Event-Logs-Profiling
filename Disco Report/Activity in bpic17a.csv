@@ -1,0 +1,27 @@
+Activity,Frequency,Relative frequency,Median duration,Median duration (milliseconds),Mean duration,Mean duration (milliseconds),Duration range,Duration range (milliseconds)
+W_Validate application,"193,648",16.69 %,0 millis,0,"4 hours, 41 mins",16879911,"83 days, 1 hour",7176436076
+W_Call after offers,"190,750",16.44 %,0 millis,0,"3 mins, 51 secs",231589,"96 days, 27 mins",8296053154
+W_Call incomplete files,"165,736",14.28 %,0 millis,0,"2 hours, 58 mins",10689624,"158 days, 21 hours",13729471021
+W_Complete application,"129,796",11.19 %,0 millis,0,"1 hour, 24 mins",5042815,"30 days, 22 hours",2673827517
+W_Handle leads,"43,771",3.77 %,0 millis,0,"1 min, 47 secs",107180,"2 days, 16 hours",231124302
+O_Create Offer,"42,995",3.71 %,0 millis,0,0 millis,0,0 millis,0
+O_Created,"42,995",3.71 %,0 millis,0,0 millis,0,0 millis,0
+O_Sent (mail and online),"39,707",3.42 %,0 millis,0,0 millis,0,0 millis,0
+A_Validating,"38,816",3.35 %,0 millis,0,0 millis,0,0 millis,0
+A_Create Application,"31,509",2.72 %,0 millis,0,0 millis,0,0 millis,0
+A_Concept,"31,509",2.72 %,0 millis,0,0 millis,0,0 millis,0
+A_Accepted,"31,509",2.72 %,0 millis,0,0 millis,0,0 millis,0
+A_Complete,"31,362",2.7 %,0 millis,0,0 millis,0,0 millis,0
+O_Returned,"23,305",2.01 %,0 millis,0,0 millis,0,0 millis,0
+A_Incomplete,"23,055",1.99 %,0 millis,0,0 millis,0,0 millis,0
+O_Cancelled,"20,898",1.8 %,0 millis,0,0 millis,0,0 millis,0
+A_Submitted,"20,423",1.76 %,0 millis,0,0 millis,0,0 millis,0
+O_Accepted,"17,228",1.48 %,0 millis,0,0 millis,0,0 millis,0
+A_Pending,"17,228",1.48 %,0 millis,0,0 millis,0,0 millis,0
+A_Cancelled,"10,431",0.9 %,0 millis,0,0 millis,0,0 millis,0
+O_Refused,"4,695",0.4 %,0 millis,0,0 millis,0,0 millis,0
+A_Denied,"3,753",0.32 %,0 millis,0,0 millis,0,0 millis,0
+W_Assess potential fraud,"3,000",0.26 %,0 millis,0,"8 hours, 40 mins",31234033,"88 days, 4 hours",7620395614
+O_Sent (online only),"2,026",0.17 %,0 millis,0,0 millis,0,0 millis,0
+W_Shortened completion,238,0.02 %,0 millis,0,0 millis,0,0 millis,0
+W_Personal Loan collection,22,0 %,0 millis,0,0 millis,0,0 millis,0
