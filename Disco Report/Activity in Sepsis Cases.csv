@@ -1,0 +1,17 @@
+Activity,Frequency,Relative frequency
+Leucocytes,"3,383",22.24 %
+CRP,"3,262",21.44 %
+LacticAcid,"1,466",9.64 %
+Admission NC,"1,182",7.77 %
+ER Triage,"1,053",6.92 %
+ER Registration,"1,050",6.9 %
+ER Sepsis Triage,"1,049",6.89 %
+IV Antibiotics,823,5.41 %
+IV Liquid,753,4.95 %
+Release A,671,4.41 %
+Return ER,294,1.93 %
+Admission IC,117,0.77 %
+Release B,56,0.37 %
+Release C,25,0.16 %
+Release D,24,0.16 %
+Release E,6,0.04 %
