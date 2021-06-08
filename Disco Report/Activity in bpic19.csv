@@ -1,0 +1,43 @@
+Activity,Frequency,Relative frequency
+Record Goods Receipt,"314,097",19.68 %
+Create Purchase Order Item,"251,734",15.77 %
+Record Invoice Receipt,"228,760",14.33 %
+Vendor creates invoice,"219,919",13.78 %
+Clear Invoice,"194,393",12.18 %
+Record Service Entry Sheet,"164,975",10.34 %
+Remove Payment Block,"57,136",3.58 %
+Create Purchase Requisition Item,"46,592",2.92 %
+Receive Order Confirmation,"32,065",2.01 %
+Change Quantity,"21,449",1.34 %
+Change Price,"12,423",0.78 %
+Delete Purchase Order Item,"8,875",0.56 %
+Change Approval for Purchase Order,"7,541",0.47 %
+Cancel Invoice Receipt,"7,096",0.44 %
+Vendor creates debit memo,"6,255",0.39 %
+Change Delivery Indicator,"3,289",0.21 %
+Cancel Goods Receipt,"3,096",0.19 %
+SRM: In Transfer to Execution Syst.,"1,765",0.11 %
+SRM: Created,"1,628",0.1 %
+SRM: Complete,"1,628",0.1 %
+SRM: Awaiting Approval,"1,628",0.1 %
+SRM: Document Completed,"1,628",0.1 %
+SRM: Ordered,"1,628",0.1 %
+Release Purchase Order,"1,610",0.1 %
+SRM: Change was Transmitted,"1,440",0.09 %
+Reactivate Purchase Order Item,543,0.03 %
+Block Purchase Order Item,514,0.03 %
+Cancel Subsequent Invoice,491,0.03 %
+Release Purchase Requisition,467,0.03 %
+Change Storage Location,415,0.03 %
+Update Order Confirmation,244,0.02 %
+SRM: Deleted,188,0.01 %
+Record Subsequent Invoice,167,0.01 %
+Set Payment Block,124,0.01 %
+SRM: Transfer Failed (E.Sys.),45,0 %
+Change Currency,35,0 %
+Change Final Invoice Indicator,11,0 %
+SRM: Transaction Completed,8,0 %
+Change payment term,7,0 %
+SRM: Incomplete,6,0 %
+SRM: Held,6,0 %
+Change Rejection Indicator,2,0 %
